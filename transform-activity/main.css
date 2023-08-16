@@ -10,6 +10,7 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: rotate(-10deg);
 }
 
 main > div {
@@ -17,3 +18,4 @@ main > div {
   margin: auto;
   padding: 10%;
 }
+
